@@ -19,8 +19,10 @@ Cleaning steps: Promoted headers, checked data types, checked blanks and errors 
 (fill in at the end)
 
 ## Dashboard
+**Overview (2017):**
 ![Overview page](dashboard/overview.png)
 
+**Products (all years):**
 ![Products page](dashboard/products.png)
 
 ## What I would do next

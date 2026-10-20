@@ -19,7 +19,7 @@ Cleaning steps: Promoted headers, checked data types, checked blanks and errors 
 (fill in at the end)
 
 ## Dashboard
-(screenshots go here)
+![Overview page](dashboard/overview.png)
 
 ## What I would do next
 (fill in at the end)

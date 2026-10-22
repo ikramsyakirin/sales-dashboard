@@ -12,6 +12,7 @@ Superstore dataset (Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-
 
 ## Approach
 Tools: Power BI (DAX), SQL and Python (DuckDB in Google Colab)
+
 Notebook: [notebooks/discount_analysis.ipynb](notebooks/discount_analysis.ipynb)
 
 Cleaning steps: Promoted headers, checked data types, checked blanks and errors (none found), removed 1 fully duplicated row (9,994 to 9,993 rows), renamed table to Orders.
